@@ -1,0 +1,201 @@
+,Movie Title,IMDB rating,Year of release,Running_time_min,Genre,Number of Votes
+0,Sholay,8.2,1975,198.0,"Action, Adventure, Comedy            ",43462
+1,Deewaar,8.1,1975,174.0,"Action, Crime, Drama            ",8193
+2,Haasil,7.7,2003,160.0,"Crime, Drama, Romance            ",2263
+3,Masoom,8.5,1983,165.0,"Drama, Family, Musical            ",2939
+4,Munna Bhai M.B.B.S.,8.2,2003,156.0,"Comedy, Drama, Musical            ",58970
+5,Rang De Basanti,8.3,2006,157.0,"Comedy, Drama            ",93108
+6,Agneepath,7.7,1990,174.0,"Action, Crime, Drama            ",6836
+7,Anand,8.8,1971,122.0,Drama            ,19598
+8,Jo Jeeta Wohi Sikandar,8.2,1992,174.0,"Comedy, Drama, Romance            ",17963
+9,Satya,8.2,1998,170.0,"Action, Crime, Drama            ",10464
+10,"Swades: We, the People",8.3,2004,210.0,Drama            ,69456
+11,Maqbool,8.2,2003,132.0,"Crime, Drama            ",6836
+12,Naam,7.6,1986,177.0,"Crime, Drama, Thriller            ",725
+13,Chashme Buddoor,8.0,1981,145.0,"Comedy, Family, Romance            ",1883
+14,Gol Maal,8.6,1979,120.0,"Comedy, Romance            ",13730
+15,Shiva,8.2,1989,145.0,Action            ,2214
+16,Dev.D,8.1,2009,144.0,"Comedy, Drama, Romance            ",24340
+17,Jaane Bhi Do Yaaron,7.1,2007,nan,Comedy            ,185
+18,Don,7.8,1978,175.0,"Action, Crime, Thriller            ",8956
+19,Chupke Chupke,8.5,1975,146.0,"Comedy, Drama, Romance            ",8950
+20,Parinda,7.9,1989,154.0,"Action, Crime, Drama            ",2580
+21,Manzil,7.1,1979,113.0,"Drama, Romance, Family            ",211
+22,Khamoshi,7.8,1970,127.0,"Family, Musical, Romance            ",446
+23,Ardh Satya,8.2,1983,130.0,"Crime, Drama            ",1309
+24,Ghayal,7.7,1990,163.0,"Action, Crime, Drama            ",3210
+25,Trishul,7.8,1978,167.0,"Action, Drama, Musical            ",1650
+26,Mother India,8.1,1957,172.0,"Drama, Musical, Family            ",6979
+27,Gunga Jumna,7.6,1961,178.0,"Action, Drama, Musical            ",416
+28,Devdas,8.0,1955,159.0,"Drama, Musical, Romance            ",1490
+29,Pyaasa,8.5,1957,146.0,"Drama, Musical, Romance            ",4234
+30,Company,8.0,2002,155.0,"Action, Crime, Drama            ",12102
+31,Gangaajal,7.9,2003,157.0,"Action, Crime, Drama            ",12530
+32,Andaz,7.5,1949,148.0,"Musical, Drama, Crime            ",365
+33,Sarfarosh,8.2,1999,174.0,"Action, Adventure, Drama            ",20631
+34,Bombay,8.1,1995,141.0,"Drama, Musical, Romance            ",9089
+35,Arth,8.0,1982,138.0,"Drama, Romance            ",1010
+36,Amar Akbar Anthony,7.6,1977,184.0,"Action, Comedy, Drama            ",4978
+37,Angoor,8.4,1982,131.0,Comedy            ,4060
+38,Kalyug,7.8,1981,152.0,Drama            ,413
+39,Baton Baton Mein,7.6,1979,112.0,"Comedy, Romance            ",819
+40,Silsila,7.4,1981,182.0,"Drama, Family, Romance            ",2171
+41,Yuva,7.4,2004,161.0,"Action, Adventure, Crime            ",7184
+42,Koshish,8.7,1972,125.0,Drama            ,1197
+43,Muqaddar Ka Sikandar,7.5,1978,189.0,"Drama, Romance            ",2120
+44,Zanjeer,7.7,1973,145.0,"Action, Crime, Drama            ",3113
+45,Shool,7.7,1999,138.0,"Action, Crime, Drama            ",2084
+46,Rajnigandha,7.5,1974,110.0,"Drama, Romance            ",413
+47,Namak Haraam,7.4,1973,146.0,Drama            ,1245
+48,Abhimaan,8.0,1973,122.0,"Drama, Musical            ",2175
+49,Chhoti Si Baat,8.4,1976,123.0,"Comedy, Romance            ",2971
+50,Junoon,7.6,1979,141.0,Drama            ,411
+51,Katha,8.0,1983,141.0,"Comedy, Drama            ",890
+52,Mughal-E-Azam,8.4,1960,197.0,"Drama, Romance, War            ",5190
+53,Andaz Apna Apna,8.2,1994,160.0,"Comedy, Family, Romance            ",42792
+54,Dil Chahta Hai,8.2,2001,183.0,"Comedy, Drama, Romance            ",57431
+55,Madhumati,8.1,1958,110.0,"Musical, Mystery, Romance            ",953
+56,A Wednesday,8.2,2008,104.0,"Crime, Drama, Mystery            ",62913
+57,Bawarchi,8.0,1972,130.0,"Comedy, Musical, Drama            ",2852
+58,Mashaal,7.5,1984,162.0,"Action, Drama, Family            ",509
+59,Kissi Se Na Kehna,7.3,1983,nan,"Comedy, Romance            ",394
+60,Achanak,7.1,1973,96.0,"Crime, Drama            ",156
+61,Mere Apne,7.7,1971,164.0,Drama            ,407
+62,Khubsoorat,7.7,1980,126.0,"Comedy, Drama, Family            ",1197
+63,Black,8.2,2005,122.0,Drama            ,29139
+64,Naya Daur,8.1,1957,173.0,"Drama, Musical, Romance            ",876
+65,Taare Zameen Par,8.4,2007,165.0,"Drama, Family            ",124544
+66,Sadma,8.5,1983,141.0,Romance            ,2476
+67,Maachis,7.9,1996,160.0,"Action, Crime, Drama            ",1645
+68,Vaastav: The Reality,8.0,1999,145.0,"Action, Crime, Drama            ",9949
+69,Khatta Meetha,7.6,1978,128.0,"Comedy, Drama, Family            ",628
+70,Lakshya,7.9,2004,186.0,"Action, Adventure, Drama            ",16251
+71,Mr. India,7.8,1987,179.0,"Action, Comedy, Drama            ",10713
+72,Namak Halaal,7.4,1982,171.0,"Action, Comedy, Drama            ",1855
+73,Kabhi Kabhi,6.6,1978,nan,nan,110
+74,Gulaal,8.1,2009,140.0,"Crime, Drama, Thriller            ",11404
+75,Guru,7.8,2007,166.0,"Biography, Drama, Musical            ",18427
+76,Bemisal,7.1,1982,142.0,"Drama, Family            ",299
+77,Chameli Ki Shaadi,7.6,1986,136.0,"Comedy, Drama, Romance            ",1276
+78,Kabuliwala,7.7,1957,116.0,Drama            ,219
+79,Bandini,7.7,1963,157.0,"Drama, Musical, Romance            ",643
+80,Phool Aur Patthar,6.6,1966,163.0,"Action, Drama, Romance            ",176
+81,Parichay,7.5,1972,145.0,"Drama, Family, Musical            ",682
+82,Imtihan,7.6,1974,153.0,"Family, Drama            ",39
+83,Majboor,7.2,1974,155.0,"Drama, Mystery, Thriller            ",522
+84,Kaala Patthar,7.8,1979,176.0,"Action, Drama, History            ",1709
+85,Damini,7.9,1993,175.0,"Crime, Drama            ",2352
+86,Naram Garam,7.5,1981,122.0,"Comedy, Drama            ",706
+87,Shakti,7.8,1982,166.0,"Action, Crime, Drama            ",1606
+88,Woh 7 Din,7.6,1983,139.0,"Drama, Romance            ",927
+89,Saaransh,8.2,1984,137.0,Drama            ,1425
+90,Arjun,7.2,1985,154.0,"Action, Crime, Drama            ",670
+91,Saaheb,7.2,1985,150.0,Drama            ,381
+92,Chaalbaaz,6.8,1989,155.0,"Action, Comedy, Drama            ",1124
+93,Tezaab,7.0,1988,173.0,"Action, Drama, Musical            ",1513
+94,Dilwale Dulhania Le Jayenge,8.2,1995,189.0,"Comedy, Drama, Musical            ",53786
+95,Rangeela,7.5,1995,142.0,"Comedy, Drama, Musical            ",7368
+96,Ijaazat,8.3,1987,137.0,"Drama, Musical, Romance            ",1069
+97,Kabzaa,6.3,1988,143.0,"Action, Thriller            ",128
+98,Qayamat Se Qayamat Tak,7.6,1988,162.0,"Drama, Musical, Romance            ",8663
+99,Parwana,6.9,1971,93.0,"Romance, Thriller            ",144
+100,Johnny Gaddaar,7.9,2007,135.0,"Crime, Drama, Mystery            ",9201
+101,Hatya,7.1,1988,151.0,"Action, Crime, Drama            ",273
+102,Aap Ki Kasam,7.0,1974,153.0,"Romance, Drama            ",323
+103,Lamhe,7.4,1991,187.0,"Drama, Musical, Romance            ",2199
+104,Eeshwar,7.3,1989,147.0,"Drama, Musical, Family            ",396
+105,Hathyar,5.9,1989,186.0,"Action, Crime            ",211
+106,Chandni,6.9,1989,186.0,"Drama, Musical, Romance            ",1279
+107,Sadak,7.1,1991,134.0,"Action, Drama, Romance            ",960
+108,Angaar,6.6,1992,176.0,"Action, Crime, Drama            ",228
+109,Krantiveer,7.4,1994,159.0,"Action, Drama, Romance            ",1493
+110,Muskurahat,7.2,1992,135.0,"Comedy, Drama            ",244
+111,Drohi,6.1,1992,130.0,"Action, Crime, Romance            ",105
+112,Gangs of Wasseypur,8.2,2012,321.0,"Action, Crime, Drama            ",61826
+113,Paan Singh Tomar,8.2,2012,135.0,"Action, Biography, Crime            ",27367
+114,Dacait,6.8,1987,158.0,"Action, Drama            ",197
+115,Aankhen,7.6,2002,165.0,"Comedy, Thriller, Crime            ",10159
+116,Gardish,7.4,1993,153.0,"Action, Crime, Drama            ",666
+117,Kabhi Haan Kabhi Naa,8.0,1994,158.0,"Comedy, Drama, Music            ",14748
+118,Lekin...,7.5,1990,171.0,"Drama, Fantasy, Musical            ",277
+119,Bandit Queen,7.6,1994,119.0,"Biography, Crime, Drama            ",3749
+120,Mohra,7.2,1994,177.0,"Action, Drama, Thriller            ",6495
+121,Dillagi,7.0,1978,nan,"Comedy, Romance            ",160
+122,Droh Kaal,7.7,1994,162.0,"Drama, Thriller            ",306
+123,Inaam Dus Hazaar,6.4,1987,nan,"Action, Thriller            ",91
+124,Sarkar,7.7,2005,124.0,"Crime, Drama            ",13288
+125,Dil Se..,7.7,1998,163.0,"Drama, Romance            ",22913
+126,Ghulam,7.4,1998,162.0,"Action, Crime, Drama            ",9239
+127,Jungle,6.2,2000,146.0,"Action, Adventure, Romance            ",921
+128,Hera Pheri,6.9,1976,164.0,"Action, Comedy, Crime            ",818
+129,Aks,5.9,2001,184.0,"Action, Crime, Horror            ",1432
+130,Lagaan: Once Upon a Time in India,8.1,2001,224.0,"Adventure, Drama, Musical            ",86878
+131,Cheeni Kum,6.8,2007,140.0,"Comedy, Romance            ",4246
+132,Kaante,6.6,2002,150.0,"Action, Crime, Drama            ",3933
+133,Ek Hasina Thi,7.6,2004,120.0,"Crime, Drama, Mystery            ",4932
+134,Omkara,8.1,2006,155.0,"Action, Crime, Drama            ",15863
+135,Zakhm,8.0,1998,125.0,Drama            ,2421
+136,Darr,7.9,1993,178.0,"Drama, Romance, Thriller            ",18901
+137,Pyaar Ke Side Effects,6.7,2006,132.0,"Comedy, Drama, Romance            ",2699
+138,Chak De! India,8.2,2007,153.0,"Drama, Family, Sport            ",61367
+139,3 Idiots,8.4,2009,170.0,"Comedy, Drama            ",273304
+140,Welcome to Sajjanpur,6.9,2008,133.0,"Comedy, Drama            ",2742
+141,Kaminey,7.4,2009,130.0,"Action, Comedy, Crime            ",14438
+142,Shaan,7.2,1980,181.0,"Action, Adventure, Crime            ",2073
+143,Meri Jung,7.3,1985,164.0,Drama            ,841
+144,Alaap,7.0,1977,160.0,"Drama, Musical            ",261
+145,Mili,7.6,1975,150.0,"Drama, Romance, Family            ",1041
+146,Faraar,7.0,1975,136.0,"Action, Crime, Drama            ",258
+147,Do Anjaane,7.0,1976,155.0,Drama            ,335
+148,Aadalat,6.6,1976,nan,"Action, Drama, Family            ",215
+149,Sagina Mahato,8.0,1971,148.0,Drama            ,22
+150,Do Aur Do Paanch,7.1,1980,132.0,"Action, Comedy, Drama            ",830
+151,Sparsh,8.2,1980,145.0,"Drama, Romance            ",494
+152,Jewel Thief,8.0,1967,186.0,"Crime, Drama, Musical            ",1390
+153,Khakee,7.5,2004,174.0,"Action, Drama, Thriller            ",12920
+154,Shootout at Lokhandwala,7.1,2007,122.0,"Action, Biography, Crime            ",7934
+155,Sahib Bibi Aur Ghulam,8.4,1962,152.0,"Drama, Musical            ",1262
+156,Kala Pani,7.1,1958,164.0,"Crime, Musical, Romance            ",212
+157,Sharaabi,7.4,1984,180.0,"Comedy, Drama, Romance            ",2170
+158,Luck by Chance,7.1,2009,156.0,Drama            ,8457
+159,Delhi-6,6.0,2009,141.0,"Comedy, Drama            ",6012
+160,Rock On!!,7.8,2008,145.0,"Drama, Music            ",18026
+161,Do Dooni Chaar,7.6,2010,112.0,"Comedy, Drama            ",4148
+162,Rang Birangi,7.2,1983,180.0,Comedy            ,358
+163,Mausam,8.1,1975,156.0,"Musical, Romance            ",704
+164,Kinara,7.6,1977,139.0,"Drama, Family            ",92
+165,Guddi,7.3,1971,121.0,"Drama, Comedy, Family            ",788
+166,Road,5.6,2002,134.0,Thriller            ,1031
+167,Ab Tak Chhappan,7.9,2004,129.0,"Crime, Drama, Thriller            ",6437
+168,Ghatak: Lethal,7.4,1996,158.0,"Action, Drama, Romance            ",2523
+169,Dev,7.1,2004,172.0,Drama            ,1181
+170,Oye Lucky! Lucky Oye!,7.8,2008,125.0,"Comedy, Crime, Drama            ",13425
+171,Khosla Ka Ghosla!,8.3,2006,135.0,"Comedy, Crime, Drama            ",17792
+172,Kotwal Saab,5.9,1977,nan,"Action, Crime, Drama            ",17
+173,Safar,7.3,1970,137.0,"Drama, Romance            ",293
+174,Main Azaad Hoon,7.3,1989,160.0,Drama            ,606
+175,Parvarish,7.0,1977,162.0,"Action, Crime, Drama            ",735
+176,Laawaris,7.2,1981,189.0,"Drama, Action, Musical            ",1814
+177,Rudaali,7.2,1993,128.0,Drama            ,390
+178,Kaagaz Ke Phool,8.2,1959,148.0,"Musical, Romance            ",1585
+179,Do Bigha Zamin,8.4,1953,131.0,Drama            ,1402
+180,Pushpak,8.7,1987,125.0,"Comedy, Romance            ",2749
+181,Salaam Bombay!,8.0,1988,113.0,"Crime, Drama            ",7389
+182,Roja,8.2,1992,137.0,"Drama, Romance, Thriller            ",9035
+183,Love Ke Liye Kuch Bhi Karega,6.1,2001,131.0,"Comedy, Crime, Romance            ",1311
+184,Teesri Manzil,7.8,1966,172.0,"Comedy, Musical, Mystery            ",862
+185,Paa,7.2,2009,133.0,"Comedy, Drama            ",9903
+186,Satyakam,8.2,1969,175.0,Drama            ,542
+187,Lage Raho Munna Bhai,8.1,2006,144.0,"Comedy, Drama, Fantasy            ",35139
+188,Dil Hai Ki Manta Nahin,7.4,1991,154.0,"Adventure, Comedy, Drama            ",3190
+189,Hazaaron Khwaishein Aisi,8.0,2003,120.0,Drama            ,4187
+190,Hip Hip Hurray,7.5,1984,nan,"Drama, Sport            ",68
+191,Padosan,8.1,1968,157.0,"Comedy, Musical, Romance            ",4803
+192,Border,7.9,1997,176.0,"Action, Drama, History            ",10574
+193,Aakrosh,8.0,1980,144.0,"Drama, Mystery, Thriller            ",592
+194,Jagte Raho,8.4,1956,153.0,"Comedy, Drama            ",731
+195,Naya Zamana,6.9,1971,151.0,"Drama, Musical            ",75
+196,Vidhaata,7.1,1982,168.0,"Action, Drama            ",246
+197,Kanoon,7.8,1960,150.0,"Drama, Crime, Mystery            ",272
+198,Prahaar: The Final Attack,8.0,1991,166.0,"Drama, Thriller, Action            ",1638
+199,Haqeeqat,7.8,1964,184.0,"Action, Musical, War            ",368
